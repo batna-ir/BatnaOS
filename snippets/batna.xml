@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="android" name="BatnaOS" remote="batna" />
+  <project path="vendor/batna" name="os_vendor_batna" remote="batna" />
+</manifest>
